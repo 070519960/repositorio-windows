@@ -6,3 +6,4 @@ Teste de recuperação na proxima aula
 =======
 Curso - Computação em nuvem
 >>>>>>> teste
+branch teste
