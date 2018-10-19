@@ -1,4 +1,8 @@
 Lucas
 E-mail: lucashenri56@gmail.com
 Telefone: 8388811555
+<<<<<<< HEAD
 Teste de recuperação na proxima aula
+=======
+Curso - Computação em nuvem
+>>>>>>> teste
